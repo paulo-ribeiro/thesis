@@ -6,8 +6,7 @@ GAMP is designed to systematically explore and visually analyze how different pa
 
 ## How to Run
 
-1. Open `GAMP.ipynb` in **Google Colab**.
-2. Upload your preprocessed DLBCL mutation data in a MAF  format.
-3. Run all cells sequentially to export complete tables of metrics and visual PDF reports to the `Output/` folder.
-
-
+1. Open GAMP.ipynb in **Google Colab**.
+2. Run the first cell and upload your DLBCL mutation data in MAF format.
+3. Run the remaining cells sequentially.
+4. View the files with graphs and other information provided by GAMP in the Output folder.
